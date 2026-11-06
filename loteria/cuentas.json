@@ -1,0 +1,340 @@
+{
+ "probabilidades": {
+  "powerball": {
+   "combinaciones": 292201338,
+   "combinaciones_blancas": 11238513,
+   "por_categoria_1_en": {
+    "5+1": 292201338.0,
+    "5": 11688053.52,
+    "4+1": 913129.18,
+    "4": 36525.17,
+    "3+1": 14494.11,
+    "3": 579.76,
+    "2+1": 701.33,
+    "1+1": 91.98,
+    "0+1": 38.32
+   },
+   "coincide_con_tabla_oficial": true,
+   "cualquier_premio_1_en": 24.87,
+   "premios_fijos_valor_esperado": 0.3199,
+   "premios_fijos_pct_del_boleto": 15.99
+  },
+  "powerball_jugadas_para_50_pct": 146100669,
+  "powerball_dolares_para_50_pct": 292201338.0,
+  "powerball_anios_jugando_3_por_semana": 1873086,
+  "navidad_primero_1_en": 100000,
+  "melate_1_en": 32468436,
+  "baloto_1_en": 15401568,
+  "veces_mas_dificil_que_navidad": {
+   "powerball": 2922,
+   "melate": 325,
+   "baloto": 154
+  },
+  "quini6_1_en_por_sorteo": 9366819,
+  "quini6_veces_mas_dificil_que_navidad": 94,
+  "powerball_veces_mas_dificil_que_quini6": 31
+ },
+ "navidad": {
+  "emision_euros": 4100000000,
+  "premios_euros": 2870000000.0,
+  "premios_por_serie": 14000000,
+  "premios_por_serie_coincide_70_pct": true,
+  "premios_por_serie_cantidad": 15304,
+  "decimo_euros": 20.0,
+  "probabilidad_primero_1_en": 100000,
+  "probabilidad_algun_premio_pct": 15.3,
+  "de_cada_100_premios_son_reintegro": 65.3,
+  "recorrido_100_euros": {
+   "gestion_y_tesoro": 30.0,
+   "primero": 20.0,
+   "segundo_y_tercero": 8.75,
+   "cuartos_y_quintos": 4.4,
+   "pedrea": 8.97,
+   "aproximaciones_y_centenas": 2.9,
+   "dos_ultimas_cifras": 14.98,
+   "reintegro": 10.0,
+   "impuesto_a_premios_grandes": -4.55,
+   "vuelve_en_premios_neto": 65.45
+  },
+  "valor_esperado_decimo_neto": 13.09,
+  "impuesto_por_serie": 910000.0,
+  "un_decimo_por_premio": {
+   "primero": {
+    "bruto": 400000.0,
+    "neto": 328000.0
+   },
+   "segundo": {
+    "bruto": 125000.0,
+    "neto": 108000.0
+   },
+   "tercero": {
+    "bruto": 50000.0,
+    "neto": 48000.0
+   },
+   "cuarto": {
+    "bruto": 20000.0,
+    "neto": 20000.0
+   },
+   "quinto": {
+    "bruto": 6000.0,
+    "neto": 6000.0
+   },
+   "pedrea": {
+    "bruto": 100.0,
+    "neto": 100.0
+   },
+   "reintegro": {
+    "bruto": 20.0,
+    "neto": 20.0
+   }
+  },
+  "comprar_todos_los_numeros": {
+   "cuesta": 2000000.0,
+   "vuelve_bruto": 1400000.0,
+   "vuelve_neto": 1309000.0,
+   "pierde_neto": 691000.0
+  },
+  "decimos_para_50_pct_de_ganar_el_primero_en_anios_distintos": 69314
+ },
+ "navidad_simulada_pct_de_decimos": {
+  "nada": 86.18,
+  "solo_reintegro": 8.6,
+  "mas_que_el_decimo": 5.21,
+  "sorteos_simulados": 200
+ },
+ "powerball_recorrido_100": {
+  "premios": 50.0,
+  "premios_fijos": 15.99,
+  "pozo_mayor": 34.01,
+  "loterias_estatales_y_costos": 50.0
+ },
+ "powerball_recorrido_100_despues_de_impuesto_federal": {
+  "pozos_ganados": 11,
+  "tasa_efectiva_del_pozo_pct": 36.98,
+  "premios_fijos": 15.99,
+  "pozo_despues_de_impuesto": 21.43,
+  "vuelve_despues_de_impuesto_federal": 37.42
+ },
+ "powerball_por_sorteo": {
+  "sorteos_usados": 243,
+  "desde": "2025-01-01",
+  "hasta": "2026-07-20",
+  "por_tamano_del_pozo": [
+   {
+    "pozo_anunciado_millones": "0-100",
+    "sorteos": 61,
+    "jugadas_mediana_millones": 8.14,
+    "valor_min": 0.339,
+    "valor_max": 0.411
+   },
+   {
+    "pozo_anunciado_millones": "100-300",
+    "sorteos": 106,
+    "jugadas_mediana_millones": 9.91,
+    "valor_min": 0.415,
+    "valor_max": 0.614
+   },
+   {
+    "pozo_anunciado_millones": "300-600",
+    "sorteos": 52,
+    "jugadas_mediana_millones": 14.04,
+    "valor_min": 0.601,
+    "valor_max": 0.902
+   },
+   {
+    "pozo_anunciado_millones": "600-1000",
+    "sorteos": 14,
+    "jugadas_mediana_millones": 25.63,
+    "valor_min": 0.895,
+    "valor_max": 1.194
+   },
+   {
+    "pozo_anunciado_millones": "1000-2000",
+    "sorteos": 10,
+    "jugadas_mediana_millones": 114.04,
+    "valor_min": 1.151,
+    "valor_max": 1.716
+   }
+  ],
+  "mas_jugadas": {
+   "fecha": "2025-09-06",
+   "anunciado_millones": 1790.0,
+   "contado_millones": 820.6,
+   "jugadas_estimadas_millones": 248.23,
+   "ganadores_pozo": 2,
+   "valor_anunciado": 6.446,
+   "valor_contado": 3.128,
+   "valor_con_impuesto": 2.089,
+   "valor_compartido": 1.512,
+   "valor_parte_esperada_del_pozo": 0.674,
+   "valor_otros_ganadores_esperados": 0.85
+  },
+  "jugadas_estimadas_millones": {
+   "pozo_mas_chico": 6.05,
+   "mediana": 8.88,
+   "pozo_mas_grande": 155.35
+  },
+  "aporte_al_pozo_pct_de_ventas": 33.5,
+  "aporte_maximo_por_regla_pct": 34.0066,
+  "ganadores_del_pozo_esperados_y_reales": [
+   14.0,
+   14
+  ],
+  "pozo_mas_chico": {
+   "fecha": "2025-01-20",
+   "anunciado_millones": 20.0,
+   "contado_millones": 8.9,
+   "jugadas_estimadas_millones": 6.05,
+   "ganadores_pozo": 0,
+   "valor_anunciado": 0.388,
+   "valor_contado": 0.35,
+   "valor_con_impuesto": 0.339,
+   "valor_compartido": 0.339,
+   "valor_parte_esperada_del_pozo": 0.99,
+   "valor_otros_ganadores_esperados": 0.021
+  },
+  "pozo_mediano": {
+   "fecha": "2025-02-17",
+   "anunciado_millones": 183.0,
+   "contado_millones": 84.5,
+   "jugadas_estimadas_millones": 8.88,
+   "ganadores_pozo": 0,
+   "valor_anunciado": 0.946,
+   "valor_contado": 0.609,
+   "valor_con_impuesto": 0.502,
+   "valor_compartido": 0.499,
+   "valor_parte_esperada_del_pozo": 0.985,
+   "valor_otros_ganadores_esperados": 0.03
+  },
+  "pozo_mas_grande": {
+   "fecha": "2025-12-24",
+   "anunciado_millones": 1820.0,
+   "contado_millones": 834.9,
+   "jugadas_estimadas_millones": 155.35,
+   "ganadores_pozo": 1,
+   "valor_anunciado": 6.548,
+   "valor_contado": 3.177,
+   "valor_con_impuesto": 2.12,
+   "valor_compartido": 1.716,
+   "valor_parte_esperada_del_pozo": 0.776,
+   "valor_otros_ganadores_esperados": 0.532
+  },
+  "mejor_valor": {
+   "fecha": "2025-12-24",
+   "anunciado_millones": 1820.0,
+   "contado_millones": 834.9,
+   "jugadas_estimadas_millones": 155.35,
+   "ganadores_pozo": 1,
+   "valor_anunciado": 6.548,
+   "valor_contado": 3.177,
+   "valor_con_impuesto": 2.12,
+   "valor_compartido": 1.716,
+   "valor_parte_esperada_del_pozo": 0.776,
+   "valor_otros_ganadores_esperados": 0.532
+  },
+  "algun_sorteo_vale_lo_que_cuesta": false,
+  "contado_para_que_valga_2_sin_compartir_millones": 779.2,
+  "comprar_todas_las_combinaciones": {
+   "fecha": "2025-12-24",
+   "cuesta": 584402676.0,
+   "premios_fijos": 93475208,
+   "pozo_neto_si_no_hay_otro": 526031043,
+   "parte_esperada_del_pozo": 0.7756,
+   "pozo_neto_esperado": 408008080,
+   "resultado_esperado": -82919388
+  }
+ },
+ "powerball_pozo_record_2022": {
+  "fecha": "2022-11-07",
+  "anunciado_millones": 2040.0,
+  "contado_millones": 997.6,
+  "jugadas_estimadas_millones": 278.68,
+  "ganadores_pozo": 1,
+  "valor_anunciado": 7.301,
+  "valor_contado": 3.734,
+  "valor_con_impuesto": 2.471,
+  "valor_compartido": 1.706,
+  "valor_parte_esperada_del_pozo": 0.645,
+  "valor_otros_ganadores_esperados": 0.954,
+  "vale_lo_que_cuesta": false
+ },
+ "pago_unico_contra_cuotas": {
+  "ultimo_sorteo": {
+   "fecha": "2026-11-04",
+   "anunciado": 847000000.0,
+   "contado": 363100000.0,
+   "contado_pct_del_anunciado": 42.9,
+   "primer_pago": 12748566,
+   "ultimo_pago": 52474824,
+   "ultimo_pago_en_poder_de_compra_de_hoy": 29549219,
+   "suma_de_cuotas_en_poder_de_compra_de_hoy": 600771450,
+   "interes_implicito_pct": 5.38,
+   "impuesto_federal_si_cobra_todo_junto": 134302957,
+   "impuesto_federal_de_la_primera_cuota": 4672926,
+   "retencion_al_cobrar": 87144000
+  },
+  "pozo_mas_grande": {
+   "fecha": "2025-12-24",
+   "anunciado": 1820000000.0,
+   "contado": 834900000.0,
+   "contado_pct_del_anunciado": 45.9,
+   "primer_pago": 27393612,
+   "ultimo_pago": 112755821,
+   "ultimo_pago_en_poder_de_compra_de_hoy": 63494190,
+   "suma_de_cuotas_en_poder_de_compra_de_hoy": 1290913860,
+   "interes_implicito_pct": 4.89,
+   "impuesto_federal_si_cobra_todo_junto": 308868957,
+   "impuesto_federal_de_la_primera_cuota": 10091594,
+   "retencion_al_cobrar": 200376000
+  },
+  "supuestos": "Cuotas que suben 5 % por año, la primera inmediata; impuesto federal 2026 de una persona sola; sin impuesto estatal; inflación de 2 % por año, la meta de la Reserva Federal."
+ },
+ "florida": {
+  "todos_0_a_5": {
+   "quiebras": 1934,
+   "ganadores": 34987,
+   "pct": 5.53
+  },
+  "grandes_0_a_2": {
+   "quiebras": 12,
+   "ganadores": 1212,
+   "pct": 0.99
+  },
+  "chicos_0_a_2": {
+   "quiebras": 461,
+   "ganadores": 14668,
+   "pct": 3.14
+  },
+  "grandes_3_a_5": {
+   "quiebras": 52,
+   "ganadores": 1212,
+   "pct": 4.29
+  },
+  "chicos_3_a_5": {
+   "quiebras": 419,
+   "ganadores": 14668,
+   "pct": 2.86
+  },
+  "grandes_0_a_5": {
+   "quiebras": 64,
+   "ganadores": 1212,
+   "pct": 5.28
+  },
+  "chicos_0_a_5": {
+   "quiebras": 880,
+   "ganadores": 14668,
+   "pct": 6.0
+  },
+  "mito_70_pct_sobre_los_mismos_ganadores": 24491
+ },
+ "canada": {
+  "aumento_pct_con_mediana": 6.6,
+  "aumento_pct_con_100000": 11.4,
+  "por_cada_1000_barrios": {
+   "quiebras_promedio_en_barrios_de_ganadores": 455,
+   "mas_con_premio_mediano": 30,
+   "mas_con_premio_de_100000": 52
+  },
+  "hogares_por_barrio": 13
+ }
+}

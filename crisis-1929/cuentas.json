@@ -1,0 +1,252 @@
+{
+ "dow_caida_pct": 89.2,
+ "indice_mensual_caida_pct": 84.8,
+ "mes_mas_bajo": "1932-06",
+ "vuelve_solo_precio": {
+  "primera_vez": "1954-09",
+  "para_siempre": "1954-09"
+ },
+ "vuelve_aguanta": {
+  "primera_vez": "1945-01",
+  "para_siempre": "1945-01"
+ },
+ "vuelve_aguanta_real": {
+  "primera_vez": "1936-11",
+  "para_siempre": "1949-07"
+ },
+ "de_a_poco_supera_lo_aportado": "1935-04",
+ "rebote_1933_pct": 46.2,
+ "de_a_poco_supera_a_aguanta": "1937-08",
+ "por_fecha": {
+  "1929-11": {
+   "fecha": "1929-11",
+   "precio_solo": 657.51,
+   "aguanta": 661.93,
+   "aguanta_real": 661.93,
+   "de_a_poco": 25.0,
+   "de_a_poco_real": 25.0,
+   "aportado": 31.25,
+   "aguanta_veces_acciones": 1.01,
+   "guardado_real": 1000.0
+  },
+  "1932-06": {
+   "fecha": "1932-06",
+   "precio_solo": 152.4,
+   "aguanta": 182.4,
+   "aguanta_real": 232.03,
+   "de_a_poco": 139.26,
+   "de_a_poco_real": 177.14,
+   "aportado": 354.17,
+   "aguanta_veces_acciones": 1.2,
+   "guardado_real": 1272.06
+  },
+  "1932-12": {
+   "fecha": "1932-12",
+   "precio_solo": 217.89,
+   "aguanta": 271.91,
+   "aguanta_real": 359.09,
+   "de_a_poco": 271.31,
+   "de_a_poco_real": 358.3,
+   "aportado": 416.67,
+   "aguanta_veces_acciones": 1.25,
+   "guardado_real": 1320.61
+  },
+  "1935-04": {
+   "fecha": "1935-04",
+   "precio_solo": 288.82,
+   "aguanta": 405.16,
+   "aguanta_real": 507.92,
+   "de_a_poco": 710.6,
+   "de_a_poco_real": 890.82,
+   "aportado": 708.33,
+   "aguanta_veces_acciones": 1.4,
+   "guardado_real": 1253.62
+  },
+  "1936-11": {
+   "fecha": "1936-11",
+   "precio_solo": 554.63,
+   "aguanta": 825.93,
+   "aguanta_real": 1020.61,
+   "de_a_poco": 1714.81,
+   "de_a_poco_real": 2119.02,
+   "aportado": 906.25,
+   "aguanta_veces_acciones": 1.49,
+   "guardado_real": 1235.71
+  },
+  "1936-12": {
+   "fecha": "1936-12",
+   "precio_solo": 545.05,
+   "aguanta": 814.51,
+   "aguanta_real": 1006.5,
+   "de_a_poco": 1701.52,
+   "de_a_poco_real": 2102.6,
+   "aportado": 916.67,
+   "aguanta_veces_acciones": 1.49,
+   "guardado_real": 1235.71
+  },
+  "1937-03": {
+   "fecha": "1937-03",
+   "precio_solo": 577.96,
+   "aguanta": 872.63,
+   "aguanta_real": 1063.13,
+   "de_a_poco": 1854.58,
+   "de_a_poco_real": 2259.45,
+   "aportado": 947.92,
+   "aguanta_veces_acciones": 1.51,
+   "guardado_real": 1218.31
+  },
+  "1938-03": {
+   "fecha": "1938-03",
+   "precio_solo": 329.39,
+   "aguanta": 528.16,
+   "aguanta_real": 648.02,
+   "de_a_poco": 1156.77,
+   "de_a_poco_real": 1419.29,
+   "aportado": 1000.0,
+   "aguanta_veces_acciones": 1.6,
+   "guardado_real": 1226.95
+  },
+  "1945-01": {
+   "fecha": "1945-01",
+   "precio_solo": 430.99,
+   "aguanta": 1031.29,
+   "aguanta_real": 1002.32,
+   "de_a_poco": 2258.74,
+   "de_a_poco_real": 2195.29,
+   "aportado": 1000.0,
+   "aguanta_veces_acciones": 2.39,
+   "guardado_real": 971.91
+  },
+  "1945-12": {
+   "fecha": "1945-12",
+   "precio_solo": 553.67,
+   "aguanta": 1377.96,
+   "aguanta_real": 1309.82,
+   "de_a_poco": 3018.01,
+   "de_a_poco_real": 2868.77,
+   "aportado": 1000.0,
+   "aguanta_veces_acciones": 2.49,
+   "guardado_real": 950.55
+  },
+  "1948-09": {
+   "fecha": "1948-09",
+   "precio_solo": 503.51,
+   "aguanta": 1430.3,
+   "aguanta_real": 1009.96,
+   "de_a_poco": 3132.64,
+   "de_a_poco_real": 2212.03,
+   "aportado": 1000.0,
+   "aguanta_veces_acciones": 2.84,
+   "guardado_real": 706.12
+  },
+  "1949-07": {
+   "fecha": "1949-07",
+   "precio_solo": 471.57,
+   "aguanta": 1413.39,
+   "aguanta_real": 1031.71,
+   "de_a_poco": 3095.6,
+   "de_a_poco_real": 2259.66,
+   "aportado": 1000.0,
+   "aguanta_veces_acciones": 3.0,
+   "guardado_real": 729.96
+  },
+  "1954-09": {
+   "fecha": "1954-09",
+   "precio_solo": 1004.79,
+   "aguanta": 4141.66,
+   "aguanta_real": 2673.54,
+   "de_a_poco": 9071.08,
+   "de_a_poco_real": 5855.58,
+   "aportado": 1000.0,
+   "aguanta_veces_acciones": 4.12,
+   "guardado_real": 645.52
+  },
+  "1954-12": {
+   "fecha": "1954-12",
+   "precio_solo": 1117.25,
+   "aguanta": 4657.53,
+   "aguanta_real": 3017.8,
+   "de_a_poco": 10200.92,
+   "de_a_poco_real": 6609.59,
+   "aportado": 1000.0,
+   "aguanta_veces_acciones": 4.17,
+   "guardado_real": 647.94
+  }
+ },
+ "con_credito": [
+  {
+   "deposito_pct": 10.0,
+   "compra_total": 10000.0,
+   "borra_con_caida_pct": 10.0,
+   "primer_promedio_mensual_bajo_esa_linea": "1929-10"
+  },
+  {
+   "deposito_pct": 40.0,
+   "compra_total": 2500.0,
+   "borra_con_caida_pct": 40.0,
+   "primer_promedio_mensual_bajo_esa_linea": "1930-10"
+  },
+  {
+   "deposito_pct": 50.0,
+   "compra_total": 2000.0,
+   "borra_con_caida_pct": 50.0,
+   "primer_promedio_mensual_bajo_esa_linea": "1930-12"
+  }
+ ],
+ "aporte_mensual": 10.42,
+ "indice_suba_1927_a_sep_1929_pct": 133.6,
+ "indice_suba_ene_a_sep_1929_pct": 25.9,
+ "ganancia_con_40_pct_de_deposito_ene_a_sep_1929_pct": 64.8,
+ "con_credito_si_cae_a_la_mitad": {
+  "acciones": 1250.0,
+  "deuda": 1500.0
+ },
+ "precios_caida_pct": 27.2,
+ "precios_mes_mas_bajo": "1933-03",
+ "precios_suba_dic_1945_a_sep_1948_pct": 34.6,
+ "indice_caida_mar_1937_a_mar_1938_pct": 43.0,
+ "rendimiento_dividendo_jun_1932_pct": 13.8,
+ "indice_rebote_nov_1929_a_abr_1930_pct": 23.7,
+ "indice_abr_1930_contra_entrada_pct": -18.7,
+ "dividendo_dic_1929_a_jun_1932_caida_pct": 32.0,
+ "compra_de_a_poco_jun_1932_contra_sep_1929_veces": 6.6,
+ "deuda_mas_ventas_con_precios_bajos_pct": 37.3,
+ "precios_nov_1936_contra_entrada_pct": -19.1,
+ "meses_aguanta_real_bajo_1000_desde_1945": [
+  "1946-11",
+  "1947-04",
+  "1947-05",
+  "1947-06",
+  "1947-09",
+  "1947-11",
+  "1947-12",
+  "1948-01",
+  "1948-02",
+  "1948-03",
+  "1948-04",
+  "1949-02",
+  "1949-06"
+ ],
+ "rendimiento_dividendo_sep_1929_pct": 3.0,
+ "guardado": {
+  "mejor_mes": "1933-03",
+  "mejor_real": 1373.02,
+  "por_debajo_de_1000_desde": "1943-09",
+  "real_por_fecha": {
+   "1933-03": 1373.02,
+   "1945-01": 971.91,
+   "1954-09": 645.52
+  },
+  "aguanta_real_lo_supera_para_siempre": "1945-01"
+ },
+ "aguanta_sep_1954_contra_lo_que_vendio_vende_abajo_veces": 15.2,
+ "producto_caida_pct": 26.3,
+ "industria_caida_pct": 53.6,
+ "bancos": {
+  "suspensiones_1930_33": 9096,
+  "parte_de_los_bancos_pct": 37.9,
+  "depositos_miles": 6830223,
+  "perdidas_miles": 1336533,
+  "perdida_por_dolar_pct": 19.6
+ }
+}
